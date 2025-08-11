@@ -10,7 +10,7 @@ const Hero = () => {
       
       {/* Content */}
       <div className="relative z-10 text-center text-white px-4 sm:px-6 lg:px-8 max-w-4xl mx-auto">
-        <h1 className="text-5xl sm:text-6xl lg:text-7xl font-extrabold text black">
+        <h1 className="text-5xl sm:text-6xl lg:text-7xl font-extrabold text-black">
           Brentwood Darshani
         </h1>
         <h2 className="text-xl sm:text-2xl mb-8 text-white/90 animate-fade-in">
